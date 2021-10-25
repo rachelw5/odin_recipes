@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(248, 156, 35, 0.692);
+}
+
+h1 {
+    font-size: 48px;
+    font-family:cursive;
+}
+
+h2, h3 {
+    color: white;
+}
+
+ul li {
+    font-family:'Courier New', Courier, monospace;
+}
+
+ol li {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
