@@ -1,3 +1,3 @@
-and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
 
-This project is to create a recipe website. It will have a main index page and have links to a few recipes. This is to demonstrate my skills in html.
+This project is to create a recipe website. It will have a main index page and an external stylesheet that have links to a few recipes. This is to demonstrate my skills in html and css.
